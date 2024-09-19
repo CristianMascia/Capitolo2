@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cristian-msi/Documents/Capitolo2/mlruns/0/341a7cf72bbf48fc8c8b7dc3b81e4692/artifacts
+end_time: 1726739509130
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 341a7cf72bbf48fc8c8b7dc3b81e4692
+run_name: agreeable-perch-247
+run_uuid: 341a7cf72bbf48fc8c8b7dc3b81e4692
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726739506349
+status: 3
+tags: []
+user_id: cristian-msi

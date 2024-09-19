@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cristian-msi/Documents/Capitolo2/mlruns/0/327f31abe588413dab03b3620fc1860f/artifacts
+end_time: 1726737441510
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 327f31abe588413dab03b3620fc1860f
+run_name: exultant-stag-476
+run_uuid: 327f31abe588413dab03b3620fc1860f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726737434952
+status: 4
+tags: []
+user_id: cristian-msi

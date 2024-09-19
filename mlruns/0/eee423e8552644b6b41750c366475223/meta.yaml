@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cristian-msi/Documents/Capitolo2/mlruns/0/eee423e8552644b6b41750c366475223/artifacts
+end_time: 1726738489269
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eee423e8552644b6b41750c366475223
+run_name: redolent-mouse-584
+run_uuid: eee423e8552644b6b41750c366475223
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726738479346
+status: 4
+tags: []
+user_id: cristian-msi

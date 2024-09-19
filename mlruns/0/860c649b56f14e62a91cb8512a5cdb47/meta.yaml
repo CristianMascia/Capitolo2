@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cristian-msi/Documents/Capitolo2/mlruns/0/860c649b56f14e62a91cb8512a5cdb47/artifacts
+end_time: 1726737395998
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 860c649b56f14e62a91cb8512a5cdb47
+run_name: learned-shrew-331
+run_uuid: 860c649b56f14e62a91cb8512a5cdb47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726737153627
+status: 4
+tags: []
+user_id: cristian-msi

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cristian-msi/Documents/Capitolo2/mlruns/0/9df9c37cb8c74c20b71ab9acee323a8d/artifacts
+end_time: 1726739474766
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9df9c37cb8c74c20b71ab9acee323a8d
+run_name: unruly-cub-756
+run_uuid: 9df9c37cb8c74c20b71ab9acee323a8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726739471624
+status: 3
+tags: []
+user_id: cristian-msi

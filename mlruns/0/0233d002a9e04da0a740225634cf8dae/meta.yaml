@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cristian-msi/Documents/Capitolo2/mlruns/0/0233d002a9e04da0a740225634cf8dae/artifacts
+end_time: 1726738756730
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0233d002a9e04da0a740225634cf8dae
+run_name: useful-shrew-94
+run_uuid: 0233d002a9e04da0a740225634cf8dae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726738715854
+status: 4
+tags: []
+user_id: cristian-msi
